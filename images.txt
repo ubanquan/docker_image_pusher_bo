@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 nginx:1.27.0
 ghcr.io/tair-opensource/redisshake:latest
+rancher/rancher:v2.8.6
